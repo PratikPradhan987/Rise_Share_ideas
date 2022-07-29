@@ -1,3 +1,16 @@
+
+# Rise a video sharing platform 
+
+This is a platform to share videos 
+
+
+## Screenshots of the web app
+
+![App Screenshot](https://github.com/PratikPradhan987/Rise_Share_ideas/blob/main/public/iDR8r9UX1V.jpg?raw=true)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
